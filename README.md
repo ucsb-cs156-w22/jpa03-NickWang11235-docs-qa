@@ -1,1 +1,1 @@
-docs repo
+docs-qa repo
